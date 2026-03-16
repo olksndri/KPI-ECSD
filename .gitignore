@@ -56,8 +56,11 @@ dkms.conf
 /lab1.X/build/
 /lab1.X/dist/
 /lab1.X/nbproject/private
-lab1.X/nbproject/Makefile-variables.mk
-lab1.X/nbproject/Makefile-local-default.mk
-lab1.X/nbproject/Makefile-impl.mk
-lab1.X/nbproject/Makefile-genesis.properties
-lab1.X/nbproject/Makefile-default.mk
+/toggle_port.X/build/
+/toggle_port.X/dist/
+/toggle_port.X/nbproject/private
+*Makefile-variables.mk
+*Makefile-local-default.mk
+*Makefile-impl.mk
+*Makefile-genesis.properties
+*Makefile-default.mk
