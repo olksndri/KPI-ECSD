@@ -53,3 +53,5 @@ dkms.conf
 
 # debug information files
 *.dwo
+/lab1.X/build/
+/lab1.X/dist/
