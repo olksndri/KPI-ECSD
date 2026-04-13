@@ -64,3 +64,5 @@ dkms.conf
 *Makefile-impl.mk
 *Makefile-genesis.properties
 *Makefile-default.mk
+/lab2.X/build/
+/lab2.X/dist/
