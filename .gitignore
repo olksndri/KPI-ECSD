@@ -66,3 +66,5 @@ dkms.conf
 *Makefile-default.mk
 /lab2.X/build/
 /lab2.X/dist/
+/lab3.X/dist/
+/lab3.X/build/
