@@ -70,3 +70,5 @@ dkms.conf
 /lab3.X/build/
 /lab4.X/dist/
 /lab4.X/build/
+/lab5.X/build/
+/lab5.X/dist/
